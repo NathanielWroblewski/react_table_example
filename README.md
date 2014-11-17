@@ -8,3 +8,4 @@ $ git clone https://github.com/NathanielWroblewski/react_table_example.git
 $ cd react_table_example
 $ open http://localhost:8000 && python -m SimpleHTTPServer
 ```
+![Screenshot](https://raw.githubusercontent.com/NathanielWroblewski/react_table_example/master/screenshot.png)
